@@ -1,3 +1,3 @@
 test changed
 
-new changes
+new change
